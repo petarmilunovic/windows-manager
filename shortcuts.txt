@@ -1,0 +1,7 @@
+top_right=18,73
+middle=18,72
+top=18,89
+bottom=18,78
+top_left=18,85
+bottom_right=18,75
+bottom_left=18,74
